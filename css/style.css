@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Montserrat:wght@600&family=Roboto&display=swap');
+
+h1 {
+	font-family: 'Comforter Brush', cursive;
+	font-size: 72px;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
